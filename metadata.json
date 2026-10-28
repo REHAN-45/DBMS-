@@ -1,0 +1,6 @@
+{
+  "name": "Campus Placement & Recruitment DBMS",
+  "description": "A comprehensive 3NF relational database management system prototype for college placements powered by in-browser SQLite WASM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
